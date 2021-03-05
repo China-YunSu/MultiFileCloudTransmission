@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mapper>
+    <interface-mapper interface="man.kuke.registry.mapper.ConsumerService" class="man.kuke.registry.ConsumeHandler"/>
+</mapper>
